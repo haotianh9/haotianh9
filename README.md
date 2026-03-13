@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on collective behavior, computational fluid dynamics (CFD), flight controller
+- 🔭 I’m currently working on collective behavior, computational fluid dynamics (CFD), flexible PCB actuator
 - 🌱 I’m currently learning software defined radio (SDR)
 - 👯 I’m looking to collaborate on generative AI used in dynamical system
 - 🤔 I’m looking for help with ...
