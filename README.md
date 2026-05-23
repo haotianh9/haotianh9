@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on collective behavior, computational fluid dynamics (CFD), swarm robotics
+- 🔭 I’m currently working on collective behavior, swarm robotics, generative AI used in dynamical system
 - 🌱 I’m currently learning statstical physics, computational social science, software defined radio
-- 👯 I’m looking to collaborate on generative AI used in dynamical system
+- 👯 I’m looking to collaborate on computational social science
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: hanghaotian@gmail.com
