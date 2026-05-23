@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on collective behavior, swarm robotics, generative AI used in dynamical system
+- 🔭 I’m currently working on collective behavior, swarm robotics, reinforcement learning, generative AI in dynamical system
 - 🌱 I’m currently learning statstical physics, computational social science, software defined radio
 - 👯 I’m looking to collaborate on computational social science
 - 🤔 I’m looking for help with ...
